@@ -2,7 +2,7 @@
 
 A comprehensive inventory management system built with Qt/C++ that helps you manage product inventory with barcode scanning capability.
 
-![Application Screenshot](stock editor ui.png)
+[Application Screenshot](stock editor ui.png)
 
 ## Features
 
